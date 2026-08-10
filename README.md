@@ -4,7 +4,7 @@ An Excel marketing analytics project evaluating an 11-campaign marketing budget 
 
 **File:** [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx)
 
- [Marketing ROMI Analysis Report](Marketing_ROMI_Analysis/REPORT_README.md)
+**PDF:** [`Marketing_ROMI.Analysis_Report`](./Marketing_ROMI_Analysis/REPORT_README.md)
 
 ---
 
