@@ -23,3 +23,10 @@ This document is the narrative write-up of the analysis built in [`Marketing_Dat
 ## Format
 Microsoft Word (.pdf) — a title page followed by eight pages of content, with headers, page numbers, and formatted tables for each KPI breakdown.
 
+## Markdown
+
+# Marketing ROMI Analysis
+
+## 📄 Project Report
+
+[View PDF Report](Marketing_ROMI_Analysis.pdf)
