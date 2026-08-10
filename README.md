@@ -4,6 +4,8 @@ An Excel marketing analytics project evaluating an 11-campaign marketing budget 
 
 **File:** [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx)
 
+**File:** [`Marketing_Campaign_Performance_Analytics_Project.pdf`](./Marketing_Campaign_Performance_Analytics_Project.pdf)
+
 ---
 
 ## About the Dataset
