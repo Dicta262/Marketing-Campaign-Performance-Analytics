@@ -191,12 +191,25 @@ The overall campaign portfolio is profitable (40.2% ROMI), but that number hides
 - **Microsoft Excel** — Excel Tables, formula-driven KPI columns, 20 PivotTables/PivotCharts, slicers, a date timeline, and a chart-based dashboard
 - Every KPI (ROMI, CPC, CPL, CAC, AOV, CTR, Conversion 1, Conversion 2) is calculated live from formulas and pivot calculated fields — no hardcoded results
 
-## Repository Structure
-```
-## 📁 Project Files
+---
+
+## Markdown
+
+### 📁 Project Files
 
 - 📊 [Marketing Dataset](Marketing_Dataset.xlsx)
-- 📄 [View Marketing ROMI Analysis PDF](https://github.com/Dicta262/Marketing-Campaign-Performance-Analytics/raw/refs/heads/main/Marketing_ROMI_Analysis/Marketing_ROMI_Analysis.pdf)
+- 📄 [Marketing ROMI Analysis Report](Marketing_ROMI_Analysis/REPORT_README.md)
+
+## Repository Structure
+```
+Marketing-Campaign-Performance-Analytics
+│
+├── README.md
+├── Marketing_Dataset.xlsx
+│
+└── Marketing_ROMI_Analysis
+    ├── REPORT_README.md
+    └── Marketing_ROMI_Analysis.pdf
 ---
 
 ## Author's Note
