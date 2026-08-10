@@ -193,13 +193,13 @@ The overall campaign portfolio is profitable (40.2% ROMI), but that number hides
 
 ## Repository Structure
 ```
-Marketing-Analysis/
+Repository
 │
 ├── README.md
-├── Marketing_Dataset.xlsx
 │
-└── Report/
+└── Marketing Analysis
     ├── README.md
+    ├── Marketing_Dataset.xlsx
     └── Marketing_ROMI_Analysis.pdf
 
 ---
