@@ -4,7 +4,7 @@ An Excel marketing analytics project evaluating an 11-campaign marketing budget 
 
 **File:** [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx)
 
-[📄 View PDF Report](Marketing_ROMI_Analysis.pdf)
+ [Marketing ROMI Analysis Report](Marketing_ROMI_Analysis/REPORT_README.md)
 
 ---
 
@@ -191,14 +191,6 @@ The overall campaign portfolio is profitable (40.2% ROMI), but that number hides
 - **Microsoft Excel** — Excel Tables, formula-driven KPI columns, 20 PivotTables/PivotCharts, slicers, a date timeline, and a chart-based dashboard
 - Every KPI (ROMI, CPC, CPL, CAC, AOV, CTR, Conversion 1, Conversion 2) is calculated live from formulas and pivot calculated fields — no hardcoded results
 
----
-
-## Markdown
-
-### 📁 Project Files
-
-- 📊 [Marketing Dataset](Marketing_Dataset.xlsx)
-- 📄 [Marketing ROMI Analysis Report](Marketing_ROMI_Analysis/REPORT_README.md)
 
 ## Repository Structure
 ```
