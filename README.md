@@ -4,7 +4,7 @@ An Excel marketing analytics project evaluating an 11-campaign marketing budget 
 
 **File:** [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx)
 
-**File:** [`Marketing_Campaign_Performance_Analytics_Project.pdf`](./Marketing_Campaign_Performance_Analytics_Project.pdf)
+**File:** [`Marketing_ROMI_Analysis.pdf`](./Marketing_ROMI_Analysis.pdf)
 
 ---
 
@@ -193,12 +193,14 @@ The overall campaign portfolio is profitable (40.2% ROMI), but that number hides
 
 ## Repository Structure
 ```
-├── README.md
-└── Marketing_Dataset.xlsx    # Main Data, Working Data, PivotTables and PivotCharts, Dashboard
+Marketing-Analysis/
 │
 ├── README.md
-└── Marketing_Campaign_Performance_Analytics.pdf   # Objectives, Business Findings, Recommendations
-```
+├── Marketing_Dataset.xlsx
+│
+└── Report/
+    ├── README.md
+    └── Marketing_ROMI_Analysis.pdf
 
 ---
 
