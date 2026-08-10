@@ -29,4 +29,4 @@ Microsoft Word (.pdf) — a title page followed by eight pages of content, with 
 
 ## 📄 Project Report
 
-[View PDF Report](Marketing_ROMI_Analysis.pdf)
+[View Marketing ROMI Analysis PDF](https://github.com/Dicta262/Marketing-Campaign-Performance-Analytics/raw/refs/heads/main/Marketing_ROMI_Analysis/Marketing_ROMI_Analysis.pdf)
