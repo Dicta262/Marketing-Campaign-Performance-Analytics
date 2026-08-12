@@ -2,7 +2,7 @@
 
 An 8-page written report summarizing the marketing spend and ROMI analysis in this repository, formatted as a standalone business document.
 
-**File:** [`Marketing_ROMI_Analysis.pdf`](./Marketing_ROMI_Analysis.pdf)
+**File:** [`Marketing_ROMI_Analysis.pdf`](./Marketing_ROMI_Analysis_1.pdf)
 
 ## What's Inside
 
@@ -37,4 +37,4 @@ Marketing-Campaign-Performance-Analytics/
 
 ## 📄 Project Report
 
-[View Marketing ROMI Analysis PDF](https://github.com/Dicta262/Marketing-Campaign-Performance-Analytics/raw/refs/heads/main/Marketing_ROMI_Analysis/Marketing_ROMI_Analysis.pdf)
+[View Marketing ROMI Analysis PDF](https://github.com/Dicta262/Marketing-Campaign-Performance-Analytics/raw/refs/heads/main/Marketing_ROMI_Analysis_1/Marketing_ROMI_Analysis_1.pdf)
