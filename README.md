@@ -1,5 +1,7 @@
 # Marketing Spend & ROMI Analysis
 
+## Project Overview
+
 An Excel marketing analytics project evaluating an 11-campaign marketing budget across social, search, influencer, and media (banner) channels over February 2021 — using Return on Marketing Investment (ROMI) and a full KPI funnel to answer six business questions, with pivot tables and an interactive dashboard.
 
 **File:** [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx)
