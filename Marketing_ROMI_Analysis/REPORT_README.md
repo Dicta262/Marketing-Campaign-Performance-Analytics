@@ -8,6 +8,7 @@ An 8-page written report summarizing the marketing spend and ROMI analysis in th
 
 | Section | Covers |
 |---|---|
+| Project Overview | Summarized description of entire marketing performance data |
 | Problem Statement | Why unstructured marketing budget needed a structured performance review |
 | Objectives | The six business questions the analysis was built to answer |
 | Dataset Dictionary | Column definitions, data types, and data quality notes for the source dataset |
