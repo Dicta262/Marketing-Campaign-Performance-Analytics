@@ -2,7 +2,7 @@
 
 An 8-page written report summarizing the marketing spend and ROMI analysis in this repository, formatted as a standalone business document.
 
-**File:** [`Marketing_ROMI_Analysis.pdf`](./Marketing_ROMI_Analysis.pdf)
+**File:** [Marketing_ROMI_Analysis.pdf](./Marketing_ROMI_Analysis.pdf)
 
 ## What's Inside
 
@@ -19,7 +19,7 @@ An 8-page written report summarizing the marketing spend and ROMI analysis in th
 
 ## How This Relates to the Rest of the Repo
 
-This document is the narrative write-up of the analysis built in [`Marketing_Dataset.xlsx`](./Marketing_Dataset.xlsx) — every figure in the report (overall ROMI, campaign-level ROMI/CAC, category and geo-tier comparisons, date and weekday findings) is pulled directly from that workbook's PivotTables and KPI calculations. The two files are meant to be read together: the spreadsheet for the underlying data and interactive dashboard, this report for a readable summary of what it shows and what to do about it.
+This document is the narrative write-up of the analysis built in [Marketing_Dataset.xlsx](../Marketing_Dataset.xlsx) — every figure in the report (overall ROMI, campaign-level ROMI/CAC, category and geo-tier comparisons, date and weekday findings) is pulled directly from that workbook's PivotTables and KPI calculations. The two files are meant to be read together: the spreadsheet for the underlying data and interactive dashboard, this report for a readable summary of what it shows and what to do about it.
 
 ## Format
 Microsoft Word (.pdf) — a title page followed by eight pages of content, with headers, page numbers, and formatted tables for each KPI breakdown.
